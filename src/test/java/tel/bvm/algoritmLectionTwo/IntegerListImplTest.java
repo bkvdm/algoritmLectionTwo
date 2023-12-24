@@ -7,9 +7,9 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class IntegerListImplTest {
 
-    @BeforeEach
-    void setUp() {
-    }
+//    @BeforeEach
+//    void setUp() {
+//    }
 
     @Test
     void add() {
